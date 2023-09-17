@@ -13,7 +13,8 @@ remappings = [
   "ds-test/=lib/forge-std/lib/ds-test/src/",
   "forge-std/=lib/forge-std/src/",
   "solmate/=lib/solmate/src/",
-  "erc721a/=lib/erc721a/contracts/"
+  "erc721a/=lib/erc721a/contracts/",
+  "operator-filter-registry/=lib/operator-filter-registry/src/"
 ]
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
