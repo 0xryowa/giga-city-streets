@@ -1,3 +1,7 @@
+### Forge ###
+cache
+out
+
 ### VSCode personal settings ###
 .vscode/settings.json
 
