@@ -4,7 +4,7 @@
   <br>
 </p>
 
-# Giga City
+# Giga City Streets
 
 Giga City Streets contract, with 99% full test coverage. Related to NFT project [Giga City](https://gigacity.gg), and at [@X](https://x.com/giga_city).
 
