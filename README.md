@@ -1,66 +1,41 @@
-## Foundry
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+<p>
+  <img src="./cover.jpg" width="800">
+  <br>
+</p>
 
-Foundry consists of:
+# Giga City
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+Giga City Streets contract, with 99% full test coverage. Related to NFT project [Giga City](https://gigacity.gg), and at [@X](https://x.com/giga_city).
 
-## Documentation
+### Getting started
 
-https://book.getfoundry.sh/
+First, install the dependencies. In our case there is only a single dependency: [Foundry](https://github.com/foundry-rs/foundry). The rest is all included in the repository.
 
-## Usage
-
-### Build
+### Usage
+To get the contract building.
 
 ```shell
 $ forge build
 ```
 
-### Test
+#### Test
+First command tests the contract, the second outputs the logs, and the third includes test coverage report generation.
 
 ```shell
 $ forge test
+$ forge test -vv
+$ forge test -vv && forge coverage --report lcov
 ```
 
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
+#### Gas Snapshots
 
 ```shell
 $ forge snapshot
 ```
 
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
+#### Deploy
 
 ```shell
 $ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
 ```
