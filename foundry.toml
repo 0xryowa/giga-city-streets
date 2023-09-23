@@ -14,7 +14,6 @@ optimizer_runs = 1_000
 remappings = [
   "ds-test/=lib/forge-std/lib/ds-test/src/",
   "forge-std/=lib/forge-std/src/",
-  "solmate/=lib/solmate/src/",
   "erc721a/=lib/erc721a/contracts/",
   "operator-filter-registry/=lib/operator-filter-registry/src/",
   "openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/",
