@@ -1,0 +1,32 @@
+{
+  "name": "Giga City Streets #1",
+  "description": "Aria Vorteka - Clad in sleek, charcoal-hued attire that melds seamlessly with the night, she navigates the world's most formidable security systems with a masterful finesse. Known for her sharp intellect and a taste for the finer things in life, she's as likely to swipe a priceless painting as she is to vanish into the misty alleyways of intrigue.",
+  "file_url": "https://giga-city-streets.s3.eu-west-1.amazonaws.com/img/1.jpg",
+  "image": "https://giga-city-streets.s3.eu-west-1.amazonaws.com/img/1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Revealed"
+    },
+    {
+      "trait_type": "Core",
+      "value": "Stamina Enhancer "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "ArmTek X359"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Human"
+    }
+  ]
+}

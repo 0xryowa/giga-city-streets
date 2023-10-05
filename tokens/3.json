@@ -1,0 +1,32 @@
+{
+  "name": "Giga City Streets #3",
+  "description": "Elara Voss - A woman whose fortune was as much a product of her deadly precision as it was of her beguiling charm. Elara was a master of the art of seduction, using her allure to get close to her targets, and then dispatching them with lethal grace.",
+  "file_url": "https://giga-city-streets.s3.eu-west-1.amazonaws.com/img/3.jpg",
+  "image": "https://giga-city-streets.s3.eu-west-1.amazonaws.com/img/3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Revealed"
+    },
+    {
+      "trait_type": "Core",
+      "value": "Diva Heart 3000"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Human"
+    }
+  ]
+}

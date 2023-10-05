@@ -1,0 +1,32 @@
+{
+  "name": "Giga City Streets #2",
+  "description": "Sonia Mariko - ascent from street-savvy enforcer to the fearsome mafiosa was as rapid as it was ruthless. With razor-sharp intelligence and a shrewd understanding of the digital underworld, Sofia had her finger on the city's virtual pulse. She commanded a legion of augmented mercenaries, and her cyber-empire controlled everything from data heists to shadowy dealings.",
+  "file_url": "https://giga-city-streets.s3.eu-west-1.amazonaws.com/img/2.jpg",
+  "image": "https://giga-city-streets.s3.eu-west-1.amazonaws.com/img/2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Revealed"
+    },
+    {
+      "trait_type": "Core",
+      "value": "MekaCorp MK3"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Body",
+      "value": "MekaCorp 3-B50 Body"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "MekaCorp 3-B50 Forearms"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "MekaCorp 3-B50 Kicks"
+    }
+  ]
+}

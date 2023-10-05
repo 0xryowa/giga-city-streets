@@ -1,0 +1,32 @@
+{
+  "name": "Giga City Streets #4",
+  "description": "Jade Martinez - Born and raised in the gritty alleys of a corporate-controlled dystopia, Jade Martinez emerged as a fierce anti-corporate fighter. His early years were a brutal battle for survival, and the scars of poverty and inequality were etched deep into his soul. Jade's transformation into an uncompromising guerrilla leader was born from a searing desire to dismantle the oppressive regime that had perpetuated the divide between the privileged elite and the destitute masses.",
+  "file_url": "https://giga-city-streets.s3.eu-west-1.amazonaws.com/img/4.jpg",
+  "image": "https://giga-city-streets.s3.eu-west-1.amazonaws.com/img/4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Revealed"
+    },
+    {
+      "trait_type": "Core",
+      "value": "MekaCorp MK1"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Akira Arm Prosthethics"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "MekaCorp MK1 Feet "
+    }
+  ]
+}
