@@ -6,7 +6,7 @@
 
 # Giga City Streets
 
-Giga City Streets contract with 99% full test coverage. [ERC721A](https://github.com/chiru-labs/ERC721A) contract for GEN art by [0x50b](https://x.com/0x50b). Contract based off NFT project [Giga City](https://gigacity.gg), and at [@X](https://x.com/giga_city).
+[ERC721A](https://github.com/chiru-labs/ERC721A) contract for GEN art by [0x50b](https://x.com/0x50b). Contract based off NFT project [Giga City](https://gigacity.gg), and at [@X](https://x.com/giga_city).
 
 ### Getting started
 
